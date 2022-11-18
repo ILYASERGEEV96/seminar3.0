@@ -10,10 +10,14 @@
 
 *после запуска в работу необходимо создать коммид* 
 
-**git commid -m**
+**git commit -m**
 
-**git commid -a**
+**git commit -a**
 
-**git commid -am** 
+**git commit -am** 
+
+*для просмотра статуса рабочего файла*
+
+**git status**
 
 
