@@ -71,5 +71,9 @@
 
 **git log --all --oneline --graph** 
 
+*для удвление ветви* 
+
+**git branch -d назване ветви**
+
 
 
